@@ -1,0 +1,33 @@
+.contact-card {
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.contact-card .card-body {
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.contact-icons i {
+    margin-right: 5px;
+}
+.heading_1 {
+    margin-top: 8%;
+    background-color: #D6DBDF;
+    color: black;
+    padding: 60px;
+    text-align: center;
+    text-align: center;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+.card-text a {
+    color: inherit;
+    text-decoration: none;
+}
+.card {
+    height: 100%;
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
